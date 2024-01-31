@@ -2,9 +2,10 @@
 Teste de logica para processo seletivo
 
 Uso da aplicação:
-- Iniciar o arquivo app.js (node app.js no terminal do VSCode)
-- Abrir arquivo index.html
-- Os numeros devem ser escrito da seguinte maneira para não ocorrer nenhum erro. (EX: [6],[3,5],[9,7,1],[4,6,8,4])
+- Instalar pacotes do package.json.
+- Iniciar o arquivo app.js (**node app.js** no terminal do VSCode).
+- Abrir arquivo index.html no navegador.
+- Os numeros devem ser escrito da seguinte maneira para não ocorrer nenhum erro. (EX: [6],[3,5],[9,7,1],[4,6,8,4]).
 
 Tecnologias que vão ser utilizadas:
 - JavaScript
